@@ -1,2 +1,2 @@
 # login_page
- landing page, JS, CSS
+ landing page, JS, CSS, responsive
